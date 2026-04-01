@@ -1,0 +1,13 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  gap: 2rem;
+}
+
+.one-half {
+  flex: 1;
+}

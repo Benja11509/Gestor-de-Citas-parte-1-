@@ -1,0 +1,26 @@
+label {
+  color: white;
+  display: block;
+  margin-top: 1rem;
+}
+
+input,
+textarea {
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  background-color: #00bcd4;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0097a7;
+}
