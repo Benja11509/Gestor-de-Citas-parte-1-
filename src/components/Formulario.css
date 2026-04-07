@@ -1,5 +1,5 @@
 label {
-  color: white;
+  color: rgb(255, 255, 255);
   display: block;
   margin-top: 1rem;
 }
@@ -14,7 +14,7 @@ textarea {
 }
 
 button {
-  background-color: #00bcd4;
+  background-color: #1db3c7;
   color: white;
   border: none;
   padding: 10px;
